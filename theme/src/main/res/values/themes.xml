@@ -1,0 +1,39 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Andraemon.Material3" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color. -->
+        <!-- Material 组件的主色，正常按钮的背景色，组件选中效果的颜色 -->
+        <item name="colorPrimary">#EE0024</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryInverse">#00F6BD</item>
+        <!-- Material 组件的主色，正常按钮的背景色，组件选中效果的颜色 -->
+        <item name="colorAccent">?attr/colorPrimary</item>
+
+        <!-- Material 组件的边框色 -->
+        <item name="colorOutline">#2196F3</item>
+
+        <item name="colorPrimaryVariant">#ED2E4A</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#008F81</item>
+
+        <item name="colorSecondaryVariant">#A15995</item>
+        <item name="colorOnSecondary">#FF5722</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="colorContainer">#FF8A80</item>
+        <item name="colorOnContainer">#8C9EFF</item>
+        <item name="colorSecondaryContainer">#FFC107</item>
+        <item name="colorOnSecondaryContainer">#84FFFF</item>
+        <item name="colorSurfaceInverse">#E53935</item>
+        <!-- Material 标题栏背景色 -->
+        <item name="colorSurface">#5E35B1</item>
+        <!-- Material 标题栏背景色上方内容的颜色 组件不可用时的颜色 -->
+        <item name="colorOnSurface">#000000</item>
+
+        <item name="colorOnPrimaryContainer">#00ACC1</item>
+        <!-- Material Switch 选中并按住颜色 -->
+        <item name="colorPrimaryContainer">#3EF41E</item>
+    </style>
+</resources>
