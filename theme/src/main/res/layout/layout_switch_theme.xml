@@ -34,6 +34,12 @@
             android:textOff="×"
             android:textOn="√"
             app:showText="true" />
+
+        <Switch
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:track="@drawable/switch_track"
+            android:thumb="@drawable/switch_thumb"/>
     </LinearLayout>
 
 

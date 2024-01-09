@@ -19,21 +19,19 @@
             android:checked="true"
             android:text="Day Mode" />
 
-
         <include layout="@layout/layout_button_theme" />
 
         <include
             layout="@layout/layout_radio_button_theme"
-            android:layout_marginTop="8dp"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" />
 
         <include
             layout="@layout/layout_switch_theme"
-            android:layout_marginTop="8dp"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" />
     </LinearLayout>
-
 
 </ScrollView>
