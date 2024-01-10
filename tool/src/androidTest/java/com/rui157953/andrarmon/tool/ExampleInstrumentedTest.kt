@@ -1,4 +1,4 @@
-package com.rui157953.andreamon.drawable
+package com.rui157953.andrarmon.tool
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.rui157953.andreamon.drawable.test", appContext.packageName)
+        assertEquals("com.rui157953.andrarmon.tool", appContext.packageName)
     }
 }

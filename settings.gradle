@@ -25,4 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "Andraemon"
 include ':app'
 include ':theme'
-include ':drawable'
+include ':tool'
